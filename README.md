@@ -110,7 +110,7 @@ The project utilizes **EfficientNet**, a family of convolutional neural networks
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/arpanpramanik2003/fruit-veg-classification.git
+git clone [https://github.com/hiranmoydas/fruit-veg-classification.git](https://github.com/hiranmoydas/fruit-veg-classification.git)
 cd fruit-veg-classification
 ```
 
@@ -161,7 +161,7 @@ The application will automatically open in your default web browser at `http://l
 
 ### Live Demo
 
-Access the deployed application: [Fruit-Veg Classification App](https://fruit-veg-detection-custom-cnn-arpan.streamlit.app/)
+Access the deployed application: [Fruit-Veg Classification App](https://fruit-veg-classification-hiranmoy.streamlit.app/)
 
 ---
 
@@ -177,8 +177,8 @@ If you want to retrain the model with custom data:
    python Computer_vision.py
    ```
 3. **Explore Notebooks**: Use the Jupyter notebooks for experimentation:
-   - `fruit-veg-detection.ipynb` - Initial model development
-   - `fruit-veg-detection-2.ipynb` - Advanced experiments
+  - `fruit-veg-detection.ipynb` - Initial model development
+  - `fruit-veg-detection-2.ipynb` - Advanced experiments
 
 ### Customization Options
 
@@ -193,14 +193,14 @@ If you want to retrain the model with custom data:
 
 1. **Image Upload**: User uploads image through Streamlit interface
 2. **Preprocessing**: 
-   - Convert image to RGB format
-   - Resize to 224×224 pixels
-   - Normalize pixel values
+  - Convert image to RGB format
+  - Resize to 224×224 pixels
+  - Normalize pixel values
 3. **Model Prediction**: Feed preprocessed image to EfficientNet model
 4. **Post-processing**: 
-   - Extract class probabilities
-   - Identify top prediction
-   - Calculate confidence score
+  - Extract class probabilities
+  - Identify top prediction
+  - Calculate confidence score
 5. **Visualization**: Display results with bar chart
 
 ---
@@ -305,7 +305,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2024 Arpan Pramanik
+Copyright (c) 2026 Hiranmoy Das
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -322,9 +322,9 @@ copies or substantial portions of the Software.
 
 ## 📧 Contact
 
-**Developer**: Arpan Pramanik  
+**Developer**: Hiranmoy Das  
 **Role**: AI/ML Enthusiast 🚀  
-**GitHub**: [@arpanpramanik2003](https://github.com/arpanpramanik2003)  
+**GitHub**: [@hiranmoydas](https://github.com/hiranmoydas)  
 
 For questions, suggestions, or collaboration opportunities, feel free to reach out!
 
@@ -343,7 +343,7 @@ If you find this project helpful, please consider:
 
 <div align="center">
 
-**Made with ❤️ by Arpan Pramanik**
+**Made with ❤️ by Hiranmoy Das**
 
 **Powered by TensorFlow • Streamlit • EfficientNet**
 
